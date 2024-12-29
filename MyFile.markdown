@@ -17,4 +17,4 @@
 يمكنك زيارة [GitHub](https://github.com "موقع GitHub") لمعرفة المزيد.
 
 ### إضافة صورة:
-![Logo](https://admin.tuwaiq.codes/assets/images/logo.svg)
+![Logo](NEW.png)
